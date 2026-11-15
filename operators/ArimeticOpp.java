@@ -1,5 +1,5 @@
-class ArithmeticOpp{
-    public static void main(Strimg args[]){
+public class ArimeticOpp{
+    public static void main(String args[]){
 
         int num1;
         int num2;
@@ -25,6 +25,12 @@ class ArithmeticOpp{
         int product = num5 * num6;  
         System.out.println("The product is: " + product);
 
+        int num7 = 10;
+        int num8 = 2;
+
+        // Division
+        int ans = num7 / num8;
+        System.out.println("The answer is: " + ans);
         
     }
 }
