@@ -1,3 +1,6 @@
+import packagesex.tools.*;
+
+
 public class NormalString{
     public static void main(String a[]){
         // By Default Strings are Immutable
@@ -7,9 +10,11 @@ public class NormalString{
         //System.out.println(name);
 
         // String as a Variable
-        String name = "Shola";
-        System.out.println(name);
+        //String name = "Shola";
+        //System.out.println(name);
 
+        Example obj = new Example();
+        obj.show();
 
     }
 }
