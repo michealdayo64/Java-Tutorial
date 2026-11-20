@@ -1,5 +1,5 @@
 package packagesex.tools;
 
-public class Example extends Example2{
+class Example extends Example2{
         
 }
